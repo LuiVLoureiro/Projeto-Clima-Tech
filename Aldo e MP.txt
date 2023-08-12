@@ -1,0 +1,14 @@
+Preciso que vocês, integrem o 'Clima.js' que faz um scrapping(busca) dos dados metereologicos no google dentro do 'index.js'.
+
+De modo com que ao clicar no botão 'Confirmar' ele apareça no espaço no final do aplicativo as informações de 'Cidade','Temperatura', 'Probabilidade de Chuva', 'Umidade' e 'Velocidade do Vento'. de uma forma esteticamente agradável.
+
+DICA: Façam o layout pelo Bootstrap (Que já está importado!)
+------------> https://getbootstrap.com/docs/5.1/getting-started/introduction/
+
+----------------------------------------------------------------
+
+Vou deixar um Video pra explicar como funciona o programa.
+
+OBS: tem que instalar o Node.js no PC -> https://nodejs.org/en
+
+----------------------------------------------------------------
